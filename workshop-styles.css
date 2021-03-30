@@ -1,12 +1,7 @@
 /* App Styles*/
 
 
-.Container {
-    margin-top: 8.5%;
-    padding: 0.5%;
-    /* border: 1px solid purple; */
-    margin-bottom: 0.1%;
-}
+
 
 /* App Styles*/
 
@@ -76,20 +71,7 @@ footer .listItem:hover {
 
 /* Main Styles */
 
-.Main {
-    display: inline-block;
-    width: 83%;
-    height: auto;
-    /* border:1px solid blue; */
-    margin-bottom: 5%;
-}
 
-h1 {
-    text-align: center;
-    color: #234465;
-    text-decoration: underline;
-    margin-bottom: 2%;
-}
 
 /* Main Styles */
 
